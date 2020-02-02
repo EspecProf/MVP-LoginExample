@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Login example</string>
+
+    <string name="user">User:</string>
+    <string name="password">Password:</string>
+    <string name="login">Login</string>
+
+    <string name="success_login_title">Success</string>
+    <string name="success_login_content">Great, you are in!</string>
+
+    <string name="error_login_title">Error</string>
+    <string name="error_login_content">Something went wrong, tray again.</string>
+</resources>
